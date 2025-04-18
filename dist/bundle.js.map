@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/main.ts"],"sourcesContent":["const greeting: string = \"Hello, TypeScript!\";\r\nconsole.log(greeting);\r\n\r\n\r\n\r\n\r\n"],"names":["console","log"],"mappings":"yBACAA,QAAQC,IADiB"}
